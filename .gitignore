@@ -1,0 +1,8 @@
+env/
+__pycache__/
+*.pyc
+srs.db
+.pytest_cache/
+node_modules/
+frontend/build/
+openapi.json
